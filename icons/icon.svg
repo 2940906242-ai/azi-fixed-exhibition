@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#F7F4EF"/>
+  <rect x="42" y="42" width="428" height="428" fill="none" stroke="#2B2B2B" stroke-opacity="0.16"/>
+  <text x="256" y="282" text-anchor="middle" font-family="Georgia, serif" font-size="82" fill="#2B2B2B" letter-spacing="18">AZI</text>
+</svg>
